@@ -21,9 +21,7 @@ How To Use Github
     本库，旨在大体了解GitHub的用法。将本项目作为我的第一个项目库，想告诉大家，“工欲善其事，必先利其器”。
 四：如何将本地的文件导入到新的项目中
 ====
-    1.New repository
-    =====
-    ![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)
-    2.Create a new repository
-    =====
-    ![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
+1.New repository
+![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)
+2.Create a new repository
+![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
