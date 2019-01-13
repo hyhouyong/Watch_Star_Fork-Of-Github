@@ -19,3 +19,11 @@ How To Use Github
     一般情况下，个人感觉，watch比较常用，尤其是对于那些更新较为频繁的项目，比如在GAN方面的论文集锦，能够有更多学习入口的项目。
     再者，fork的拷贝功能不错，想多做一些贡献，尤其在自己专长领域，多使用fork。
     本库，旨在大体了解GitHub的用法。将本项目作为我的第一个项目库，想告诉大家，“工欲善其事，必先利其器”。
+四：如何将本地的文件导入到新的项目中
+====
+    1.New repository
+    =====
+    ![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)
+    2.Create a new repository
+    =====
+    ![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
