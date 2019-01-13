@@ -26,7 +26,7 @@ How To Use Github
 ![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)<br>
 2.Create a new repository
 =====
-![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
+![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)<br>
 3.init
 =====
     git init                           #切换到装有git命令环境下且想上传至仓库的文件夹下
