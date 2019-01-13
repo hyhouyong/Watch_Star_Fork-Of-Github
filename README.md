@@ -23,7 +23,7 @@ How To Use Github
 ====
 1.New repository
 =====
-![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)
+![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)<br>
 2.Create a new repository
 =====
 ![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
