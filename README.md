@@ -27,3 +27,10 @@ How To Use Github
 2.Create a new repository
 =====
 ![Create a new repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/2.png)
+3.init
+=====
+    git init                           #切换到装有git命令环境下且想上传至仓库的文件夹下
+    git add .                          #将文件夹内所有内容放入临时git库文件中
+    git commit -m "注释语句"
+    git remote add origin https://github.com/hyhouyong/Watch_Star_Fork-Of-Github.git  #与现有项目建立连接
+    git push -u origin master           #同步
