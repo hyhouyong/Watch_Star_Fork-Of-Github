@@ -1,5 +1,6 @@
 # Watch_Star_Fork-Of-Github
 How To Use Github
+![](https://github.com/hyhouyong/Watch_Star_Fork-Of-Github/blob/master/images/1.png)
 
 
 ​一：Watch
