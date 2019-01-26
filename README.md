@@ -1,6 +1,6 @@
 # Watch_Star_Fork-Of-Github
 How To Use Github
-![](https://github.com/hyhouyong/Watch_Star_Fork-Of-Github/blob/master/images/1.png)
+
 
 
 ​一：Watch
@@ -23,6 +23,7 @@ How To Use Github
 四：如何将本地的文件导入到新的项目中
 ====
 1.New repository
+![](https://github.com/hyhouyong/Watch_Star_Fork-Of-Github/blob/master/images/1.png)
 ====
 ![New repository](http://github.com/hyhouyong/Watch_Star_Fork-Of-Github/raw/master/images/1.png)<br>
 2.Create a new repository
